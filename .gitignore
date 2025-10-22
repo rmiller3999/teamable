@@ -1,0 +1,30 @@
+node_modules
+dist
+teamable-*.tgz
+
+# Environment variables (security)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+coverage/
+
+# Package files
+*.tgz
+*.tar.gz
