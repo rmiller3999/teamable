@@ -7,7 +7,7 @@ application for managing employee profiles
 
     npm run test
 
-### to package the application , execute 
+### to package the application, execute 
 
     npm pack
     
